@@ -1,0 +1,8 @@
+Data Wrangling involves many technique for data preparation<br>
+Checking the header or column names
+Treat the null values
+Changing datatype according to its actual type
+Converting data, like mpg to kmpl or Million to thousands
+Normalizing: When data is in diffrent range then to bring all in simmilar range
+Binning: Creating Bin from numerical data
+Dummies: It is opposite of binning creating numerical from labelled data
